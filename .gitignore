@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (never commit raw data)
+data/
+
+# Secrets (never commit these)
+.env
+*.pem
+.aws/
+
+# Editors / OS
+.vscode/
+.DS_Store
