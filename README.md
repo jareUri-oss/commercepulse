@@ -10,3 +10,6 @@ directly impacting customers satisfaction. This project is based on cleanses ans
 
 ## Planned stack
 Python/Pandas · AWS S3/Glue/Athena · dbt · Airflow · Power BI · GitHub Actions
+
+## Dataset
+This dataset was taked from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data).
