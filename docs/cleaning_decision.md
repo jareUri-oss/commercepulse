@@ -1,0 +1,5 @@
+Data completeness. Order volume falls from ~200/day to near zero between Aug 22 and Aug 29, 2018, and only a handful of orders exist afterward. Monthly trends and forecasts use January 2017 – July 2018. Earlier months (Sep–Dec 2016) are also sparse. Rows outside the reliable window are retained but flagged.
+
+Post-August 2018 records. 20 orders after Sept 1, 2018: 19 canceled, 1 shipped, none delivered. Combined with the daily decline from ~200/day to near zero between Aug 22-29, this indicates incomplete data. Records are retained but excluded from trend and forecast analysis (reliable window: Jan 2017 – Jul 2018).
+
+Early records. 2016 has 329 orders in total across three months (4 in Sep, 324 in Oct, 1 in Dec), with none in Nov 2016. The data is too sparse and discontinuous for trend analysis. Reliable window for monthly analysis: Jan 2017 – Jul 2018 (19 months).
