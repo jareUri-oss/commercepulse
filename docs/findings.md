@@ -11,3 +11,9 @@ The column called 'customer_zip_code_prefix' was modified from int to str becaus
 The average review score is ~4.29, for orders that were delivered on time, while it is ~2.27 for orders that were delivered late.
 
 When a delivery is delayed, customer satisfaction drops significantly, showing that logistical delays are a critical driver of negative reviews. 
+
+Undefined Payment type: There are 3 orders with undefined payment type and their payment_value = 0.0 raising doubts about those orders. Investigating on the 'orders' dataset we were able to identified those orders were cancelled, so revenue is unaffected.
+
+Sales with higher financing amounts have a higher value for example 1 installament sale average value is ~$112 and 10 installment sales average value is ~$415. 
+
+There are 2 credit card transaction where their payment_installments = 0 ($58.69 and $129.94). Both orders were succesfully delivered, indirecting a data logging where 1 installment was recorded as 0. 
