@@ -17,3 +17,11 @@ Undefined Payment type: There are 3 orders with undefined payment type and their
 Sales with higher financing amounts have a higher value for example 1 installament sale average value is ~$112 and 10 installment sales average value is ~$415. 
 
 There are 2 credit card transaction where their payment_installments = 0 ($58.69 and $129.94). Both orders were succesfully delivered, indirecting a data logging where 1 installment was recorded as 0. 
+
+Basket size. 90.06% of orders consist of a single item (mean: 1.14 items/order, median: 1.0). The marketplace is predominantly driven by single-unit purchases, with little basket consolidation or cross-selling.
+
+Freight impact. The aggregate freight-to-merchandise ratio is 16.57% (freight accounts for nearly 1/6th of product value). Median product price is $74.99 with a median freight cost of $16.26 (mean price: $120.65, mean freight: $19.99).
+
+Top categories & high-ticket effect. While "bed_bath_table" leads total sales volume (11,115 items, average ticket ~$93), "health_beauty" ($1.25M) and "watches_gifts" ($1.20M) generate the highest total revenue. "watches_gifts" enters the top 2 in revenue despite lower volume (5,991 items) due to its high average ticket (~$201), showing the difference between volume-driven and margin/ticket-driven categories.
+
+Catalog data quality & translation gap. 1,603 items (1.42% of total sold items) lack a product category in the raw data. Furthermore, 24 items across 2 categories ("portateis_cozinha_e_preparadores_de_alimentos" [15] and "pc_gamer" [9]) exist in Portuguese but are missing from the English translation dictionary, posing a risk of silent data omission in English-based reporting.
