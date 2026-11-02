@@ -25,3 +25,11 @@ Freight impact. The aggregate freight-to-merchandise ratio is 16.57% (freight ac
 Top categories & high-ticket effect. While "bed_bath_table" leads total sales volume (11,115 items, average ticket ~$93), "health_beauty" ($1.25M) and "watches_gifts" ($1.20M) generate the highest total revenue. "watches_gifts" enters the top 2 in revenue despite lower volume (5,991 items) due to its high average ticket (~$201), showing the difference between volume-driven and margin/ticket-driven categories.
 
 Catalog data quality & translation gap. 1,603 items (1.42% of total sold items) lack a product category in the raw data. Furthermore, 24 items across 2 categories ("portateis_cozinha_e_preparadores_de_alimentos" [15] and "pc_gamer" [9]) exist in Portuguese but are missing from the English translation dictionary, posing a risk of silent data omission in English-based reporting.
+
+Supply & demand concentration. SP concentrates 59.74% of sellers versus 41.98% of customers, creating an inherent geographic imbalance between supply and demand.
+
+Interstate shipments. 63.82% of all sales cross state borders, confirming heavy reliance on long-haul interstate logistics.
+
+Delivery time disparity. SP achieves a median delivery time of 7 days, while Northern states (AP, AM, RR) take 24–25 days (over 3.5x slower).
+
+Regional delay hotspots. AL (23.93%), MA (19.67%), and PI (15.97%) experience the highest delay rates in the country, more than double to triple the national delay rate (~7%), pinpointing the Northeast as the primary driver of logistics-related customer dissatisfaction.
