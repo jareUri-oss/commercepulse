@@ -33,3 +33,9 @@ Interstate shipments. 63.82% of all sales cross state borders, confirming heavy 
 Delivery time disparity. SP achieves a median delivery time of 7 days, while Northern states (AP, AM, RR) take 24–25 days (over 3.5x slower).
 
 Regional delay hotspots. AL (23.93%), MA (19.67%), and PI (15.97%) experience the highest delay rates in the country, more than double to triple the national delay rate (~7%), pinpointing the Northeast as the primary driver of logistics-related customer dissatisfaction.
+
+Monthly growth & volume-driven expansion. Between January 2017 and July 2018 (reliable 19-month window), monthly delivered orders grew ~8.2x (from 750 to 6,159 orders/month) and revenue grew ~7.8x (from $111.8k to $868.0k/month).
+
+AOV stability across growth. Average Order Value (AOV) remained remarkably stable throughout the expansion, fluctuating narrowly between $124 and $149 (ending at $140.92 in July 2018, a -5.45% change vs. January 2017). This confirms that top-line revenue growth was entirely driven by customer and order volume acquisition rather than basket expansion or price inflation.
+
+Black Friday 2017 spike. November 2017 represented the single highest sales peak in the marketplace's history, reaching 7,289 delivered orders (+62.8% vs. October) and $987.8k in merchandise revenue (+52.4% vs. October). AOV experienced a slight discount-driven compression from $144.76 to $135.51, consistent with promotional price reductions compensated by heavy order volume.
