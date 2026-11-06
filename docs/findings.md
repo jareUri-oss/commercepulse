@@ -39,3 +39,9 @@ Monthly growth & volume-driven expansion. Between January 2017 and July 2018 (re
 AOV stability across growth. Average Order Value (AOV) remained remarkably stable throughout the expansion, fluctuating narrowly between $124 and $149 (ending at $140.92 in July 2018, a -5.45% change vs. January 2017). This confirms that top-line revenue growth was entirely driven by customer and order volume acquisition rather than basket expansion or price inflation.
 
 Black Friday 2017 spike. November 2017 represented the single highest sales peak in the marketplace's history, reaching 7,289 delivered orders (+62.8% vs. October) and $987.8k in merchandise revenue (+52.4% vs. October). AOV experienced a slight discount-driven compression from $144.76 to $135.51, consistent with promotional price reductions compensated by heavy order volume.
+
+Customer repeat purchase rate & retention gap. Out of 93,358 unique delivered customers, 90,557 (97.00%) are one-time buyers. Only 2,801 customers (3.00%) returned for a second or subsequent purchase, highlighting a severe retention bottleneck.
+
+Repeat buyer lifetime value (LTV). Customers who return generate disproportionate value: repeat buyers have a median total spend of $182.10 (mean: $260.05), representing a +109% increase in median spend compared to one-time buyers ($86.96 median, $137.96 mean).
+
+Repurchase timing & CRM window. Among repeat buyers, the median time elapsed between consecutive orders is 29.0 days (mean: 78.8 days). Half of all returning customers make their next purchase within the first month, defining a tight 15-to-30-day post-purchase window as the optimal timeframe for CRM retention campaigns before interest drops off.
